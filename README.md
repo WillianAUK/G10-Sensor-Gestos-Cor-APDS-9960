@@ -33,6 +33,8 @@
 Projeto desenvolvido durante a disciplina de **Sistemas embarcados** ofertada pelo [IFPB - Campina Grande](https://www.ifpb.edu.br/campinagrande).
 A disciplina faz parte do 9º semestre da grade currícular do curso de Engenharia de Computação do IFPB - Campina Grande e tem como responsável o professor [Dr. Alexandre Sales Vasconselos](http://lattes.cnpq.br/8740952344021265), que está ministrando-a no semestre 2021.1
 
+Para videos demonstrativos e arquivos extras, acesse o o drive https://drive.google.com/drive/folders/1uk8sIaNC5tyi2TA3CVgvFQiCZkxG33-y?usp=sharing.
+
 ---
 
 ## ⚙️ Funcionalidades
