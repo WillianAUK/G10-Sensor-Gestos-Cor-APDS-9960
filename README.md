@@ -20,6 +20,7 @@
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="Setup">Setup</a> •
  <a href="Funcionalidades">Funcionalidades</a> •
  <a href="Contribuidores">Contribuidores</a> • 
  <a href="Licença">Licença</a>
@@ -48,6 +49,45 @@ Para videos demonstrativos e arquivos extras, acesse o o drive https://drive.goo
 </table>
 
 ---
+
+## ✔️ Setup
+
+Para obter uma cópia local instalada e funcionando, siga estas etapas simples de exemplo.
+
+### Pré requisitos
+
+You need Python 3.5 or later to run mypy.  You can have multiple Python
+versions (2.x and 3.x) installed on the same system without problems.
+
+Você precisa do Python 3.5 ou posterior para executar o Gcontrol. Você pode ter várias versões do Python (2.xe 3.x) instaladas no mesmo sistema sem problemas.
+
+No Ubuntu, Mint e Debian, você pode instalar o Python 3 assim:
+
+    $ sudo apt-get install python3 python3-pip
+
+Para outros tipos de Linux, macOS e Windows, os pacotes estão disponíveis em
+
+  https://www.python.org/getit/
+
+### Instalações
+
+1. Atualize o pip do Python
+   ```sh
+   python -m pip install --upgrade pip --user
+   ```
+2. Instale o PySerial atráves do seguinte link ou comando [PySerial](https://pythonhosted.org/pyserial/pyserial.html#installation)
+   ```sh
+   python -m pip install pyserial
+   ```
+3. Instale o PyAutoGui atrábes do seguinte link ou comando [PyAutoGui](https://pyautogui.readthedocs.io/en/latest/install.html)
+   ```sh
+   python -m pip install pyautogui 
+   ```
+4. Rode o seguinte script Python [Gcontrol_listener](./firmware/media_control/media_control.py)
+5. Rode o seguinte script Arduino, com as devidas adequações a sua implementação [Gcontrol_Arduino](./firmware/controller_media/controller_media.ino)
+6. Fim
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## ⚙️ Funcionalidades
 
