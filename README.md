@@ -35,22 +35,32 @@ A disciplina faz parte do 9º semestre da grade currícular do curso de Engenhar
 
 Para videos demonstrativos e arquivos extras, acesse o o drive https://drive.google.com/drive/folders/1uk8sIaNC5tyi2TA3CVgvFQiCZkxG33-y?usp=sharing.
 
+### Simulação
+
+<table>
+  <tr>
+    <td align="center"><img style="border-radius: 50%;" src="./docs/Imagens/simulation/python_serial_listener.PNG" width="500px;" /><br /><sub><b>Execução do script de comunicação Serial do S.O. com o arduino em Python </b></sub></a><br /> </td>
+    <td align="center"><img src="./docs/Imagens/simulation/media_player.PNG" width="500px;" /><br /><sub><b>Software de reprodução de mídia, utilizado como exemplo no projeto</b></sub></a><br /></td>
+  </tr>
+  <tr>
+     <td colspan="2" align="center"><img style="border-radius: 50%;" src="./docs/Imagens/simulation/arduino_proteus.PNG" width="1000px;" /><br /><sub><b>Circuito simulado no proteus</b></sub></a><br /></a></td>
+  </tr>
+</table>
+
 ---
 
 ## ⚙️ Funcionalidades
 
-- [ ] Conexão do hardwaare embarcado com software de reprodução de mídias
-  - [ ] Implementar os protocolos de comunicação
+- [x] Conexão do hardwaare embarcado com software de reprodução de mídias
+  - [x] Implementar os protocolos de comunicação
   
-- [ ] Os usuários tem acesso ao sistema integrado, onde podem por meio de gestos específicos:
-  - [ ] Pausar 
-  - [ ] Despausar
-  - [ ] Avançar
-  - [ ] Retroceder 
-  - [ ] Aumentar volume
-  - [ ] Diminuir volume
-  - [ ] Mutar volume
-  - [ ] Desmutar volume
+- [x] Os usuários tem acesso ao sistema integrado, onde podem por meio de gestos específicos:
+  - [x] Pausar 
+  - [x] Despausar
+  - [x] Avançar
+  - [x] Retroceder 
+  - [x] Aumentar volume
+  - [x] Diminuir volume
 
 ---
 
